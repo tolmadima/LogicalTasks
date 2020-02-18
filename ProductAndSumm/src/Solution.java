@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class Solution {
     public static int substractProductAndSum(int n) {
         int sum = 0;
@@ -11,6 +12,9 @@ public class Solution {
             return substract;
     }
     public static void main(String Args[]){
-        System.out.println("Substract = " + Solution.substractProductAndSum(1234));
+        System.out.println("Введите число :")
+        Scanner scan = new Scanner (System.in);
+        int number = scan.nextInt();
+        System.out.println("Substract = " + Solution.substractProductAndSum(number));
     }
 }
