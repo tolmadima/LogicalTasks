@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class DecreasingToZero {
         public static int numberOfSteps(int num) {
             int step = 0;
@@ -16,9 +17,10 @@ public class DecreasingToZero {
 
             return step;
         }
-
         public static void main(String[] args) {
-            DecreasingToZero.numberOfSteps(19);
-            System.out.println("Количество шагов равно = " + DecreasingToZero.numberOfSteps(19));
+            System.out.print("Введите любое целое число : ");
+            Scanner scan = new Scanner(System.in);
+            int number = scan.nextInt();
+            System.out.println("Количество шагов равно = " + DecreasingToZero.numberOfSteps(number));
         }
 }
