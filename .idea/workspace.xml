@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b78683c-2d6c-41e6-9899-ecbf99c0d483" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecreasingToZero/.idea/DecreasingToZero.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecreasingToZero/DecreasingToZero.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecreasingToZero/src/DecreasingToZero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductAndSumm/.idea/ProductAndSumm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductAndSumm/ProductAndSumm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductAndSumm/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stringwork/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stringwork/Stringwork.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stringwork/src/StringDot.java" beforeDir="false" />
-    </list>
+    <list default="true" id="5b78683c-2d6c-41e6-9899-ecbf99c0d483" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
